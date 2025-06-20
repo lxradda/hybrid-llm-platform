@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+# Geliştirirken:
+# gpt4all
+# petals
+# deepspeed
+# transformers
+# torch
